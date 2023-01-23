@@ -1,0 +1,17 @@
+{
+    "parent":  "minecraft:item/template_spawn_egg",
+    
+    
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":999000}, "model": "item/custom/pig_assembler"},
+    {"predicate": {"custom_model_data":999001}, "model": "item/custom/smelter"},
+    {"predicate": {"custom_model_data":999002}, "model": "item/custom/launch_pad"},
+    {"predicate": {"custom_model_data":999060}, "model": "item/custom/oxygen_compressor"},
+    {"predicate": {"custom_model_data":999061}, "model": "item/custom/oxygen_collector"},
+    {"predicate": {"custom_model_data":999062}, "model": "item/custom/oxygen_generator_on"},
+    {"predicate": {"custom_model_data":999063}, "model": "item/custom/oxygen_generator_off"},
+    {"predicate": {"custom_model_data":999064}, "model": "item/custom/oxygen_clearer"},
+    {"predicate": {"custom_model_data":999091}, "model": "item/custom/rocket_t1"}
+    ]
+}

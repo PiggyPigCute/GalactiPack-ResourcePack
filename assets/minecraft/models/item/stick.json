@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    
+    
+    
+    "overrides": [
+	{"predicate": {"custom_model_data":8977001}, "model": "galactipack:block/space_crafter"},
+	{"predicate": {"custom_model_data":8977002}, "model": "galactipack:block/smelter"},
+	{"predicate": {"custom_model_data":8977003}, "model": "galactipack:block/pig_assembler"},
+	{"predicate": {"custom_model_data":8977004}, "model": "galactipack:block/lpc"}
+    ]
+}

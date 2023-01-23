@@ -1,0 +1,37 @@
+{
+    "takeoff.total":{
+         "sounds":[
+            {"name":"galactipack:takeoff/total", "stream":"true"}
+        ]
+    },
+    "takeoff.start":{
+        "sounds":[
+            {"name":"galactipack:takeoff/start"}
+        ]
+    },
+    "takeoff.5":{
+        "sounds":[
+            {"name":"galactipack:takeoff/5"}
+        ]
+    },
+    "takeoff.4":{
+        "sounds":[
+            {"name":"galactipack:takeoff/4"}
+        ]
+    },
+    "takeoff.3":{
+        "sounds":[
+            {"name":"galactipack:takeoff/3"}
+        ]
+    },
+    "takeoff.2":{
+        "sounds":[
+            {"name":"galactipack:takeoff/2"}
+        ]
+    },
+    "takeoff.1":{
+        "sounds":[
+            {"name":"galactipack:takeoff/1"}
+        ]
+    }
+}

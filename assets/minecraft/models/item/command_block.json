@@ -1,0 +1,17 @@
+{
+    "parent": "block/command_block",
+    
+    
+
+    "overrides": [
+	{"predicate": {"custom_model_data":8977001}, "model": "galactipack:item/wrench"},
+    {"predicate": {"custom_model_data":8977002}, "model": "galactipack:item/copper_plate"},
+	{"predicate": {"custom_model_data":8977003}, "model": "galactipack:item/iron_plate"},
+	{"predicate": {"custom_model_data":8977004}, "model": "galactipack:item/gold_plate"},
+	{"predicate": {"custom_model_data":8977005}, "model": "galactipack:item/rocket_engine"},
+	{"predicate": {"custom_model_data":8977006}, "model": "galactipack:item/nose_cone"},
+	{"predicate": {"custom_model_data":8977007}, "model": "galactipack:item/red_meteor_iron"},
+	{"predicate": {"custom_model_data":8977008}, "model": "galactipack:item/red_meteor_ingot"},
+	{"predicate": {"custom_model_data":8977009}, "model": "galactipack:item/red_meteor_plate"}
+    ]
+}

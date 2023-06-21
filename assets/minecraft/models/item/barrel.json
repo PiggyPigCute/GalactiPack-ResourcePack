@@ -1,0 +1,18 @@
+{
+    "parent":  "minecraft:block/barrel",
+
+
+    "overrides": [
+        {"predicate": {"custom_model_data":8977000}, "model": "galactipack:item/pig_assembler"},
+        {"predicate": {"custom_model_data":8977001}, "model": "galactipack:item/lpc"},
+        {"predicate": {"custom_model_data":8977002}, "model": "galactipack:item/meteor_shield"},
+        {"predicate": {"custom_model_data":8977003}, "model": "galactipack:item/farm"},
+        {"predicate": {"custom_model_data":8977004}, "model": "galactipack:item/o2_compressor"},
+        {"predicate": {"custom_model_data":8977005}, "model": "galactipack:item/o2_dilator"},
+        {"predicate": {"custom_model_data":8977006}, "model": "galactipack:item/o2_cleaner"},
+        {"predicate": {"custom_model_data":8977007}, "model": "galactipack:item/o2_spreader"},
+        {"predicate": {"custom_model_data":8977008}, "model": "galactipack:item/o2_collector"},
+        {"predicate": {"custom_model_data":8977009}, "model": "galactipack:item/o2_generator"},
+        {"predicate": {"custom_model_data":8977010}, "model": "galactipack:item/o2_creative_filler"}
+    ]
+}

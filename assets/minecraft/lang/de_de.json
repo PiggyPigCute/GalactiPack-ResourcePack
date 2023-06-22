@@ -1,0 +1,46 @@
+{
+	"galactipack.item.wrench": "Schraubenschlüssel",
+
+	"galactipack.item.copper_plate": "Kupferplatte",
+	"galactipack.item.iron_plate": "Isenplatte",
+	"galactipack.item.gold_plate": "Goldplatte",
+
+	"galactipack.item.red_meteor_iron": "Roh rotes Meteoritenisen",
+	"galactipack.item.red_meteor_ingot": "Rotes Meteoritenisenbarren",
+	"galactipack.item.red_meteor_plate": "Rotes Meteoritenisenplatte",
+	"galactipack.item.green_meteor_iron": "Roh grünes Meteoritenisen",
+	"galactipack.item.green_meteor_ingot": "Grünes Meteoritenisenbarren",
+	"galactipack.item.green_meteor_plate": "Grünes Meteoritenisenplatte",
+	"galactipack.item.blue_meteor_iron": "Roh blaues Meteoritenisen",
+	"galactipack.item.blue_meteor_ingot": "Blaues Meteoritenisenbarren",
+	"galactipack.item.blue_meteor_plate": "Blaues Meteoritenisenplatte",
+
+	"galactipack.item.rocket_engine": "Raketenantrieb",
+	"galactipack.item.nose_cone": "Raketenspitze",
+
+	"galactipack.item.rocket": "Rakete",
+	"galactipack.item.o2_mask": "Sauerstoffmaske",
+	"galactipack.item.o2_tank": "Sauerstoffflasche",
+
+	"galactipack.tier.1": "1. Stufe",
+	"galactipack.tier.2": "2. Stufe",
+	"galactipack.tier.3": "3. Stufe",
+	"galactipack.tier.4": "4. Stufe",
+	"galactipack.tier.5": "5. Stufe",
+	"galactipack.tier.6": "6. Stufe",
+
+	"galactipack.block.pig_assembler": "Raketenmontagebetriebe",
+	"galactipack.block.lpc": "Startcontroller",
+	"galactipack.block.meteor_shield": "Antimeteoriten Schild",
+	"galactipack.block.farm": "Weltraumfarm",
+	
+	"galactipack.block.o2_compressor": "Sauerstoffkompressor",
+	"galactipack.block.o2_dilator": "Sauberstofferweiter",
+	"galactipack.block.o2_cleaner": "Sauberstoffpülung",
+	"galactipack.block.o2_spreader": "Sauerstoffverbreiter",
+	"galactipack.block.o2_collector": "Sauerstoffsammler",
+	"galactipack.block.o2_generator": "Sauberstoffgenerator",
+	"galactipack.block.o2_creative_filler": "Kreativmodussauberstoffgenerator",
+
+	"galactipack.planet.moon": "Mond"
+}

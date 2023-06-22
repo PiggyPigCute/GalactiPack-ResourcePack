@@ -28,6 +28,11 @@
 	"galactipack.tier.4": "4. Stufe",
 	"galactipack.tier.5": "5. Stufe",
 	"galactipack.tier.6": "6. Stufe",
+	"galactipack.tier.7": "7. Stufe",
+	"galactipack.tier.8": "8. Stufe",
+	"galactipack.tier.9": "9. Stufe",
+	"galactipack.tier.10": "10. Stufe",
+	"galactipack.tier.creative": "Kreativmodus",
 
 	"galactipack.block.pig_assembler": "Raketenmontagebetriebe",
 	"galactipack.block.lpc": "Startcontroller",
@@ -42,5 +47,14 @@
 	"galactipack.block.o2_generator": "Sauberstoffgenerator",
 	"galactipack.block.o2_creative_filler": "Kreativmodussauberstoffgenerator",
 
-	"galactipack.planet.moon": "Mond"
+	"galactipack.planet.moon": "Mond",
+	"galactipack.planet.mars":"Mars",
+	"galactipack.planet.asteroids":"Asteroid",
+	"galactipack.planet.venus":"Venus",
+	"galactipack.planet.jupiter":"Jupiter",
+	"galactipack.planet.saturn":"Saturn",
+	"galactipack.planet.uranus":"Uranus",
+	"galactipack.planet.neptune":"Neptune",
+	"galactipack.planet.mercury":"Mercury",
+	"galactipack.planet.sun":"Sonne"
 }

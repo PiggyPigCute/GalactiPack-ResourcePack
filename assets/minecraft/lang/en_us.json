@@ -52,6 +52,10 @@
     "galactipack.tier.11": "Tier 11",
     "galactipack.tier.12": "Tier 12",
     "galactipack.tier.13": "Tier 13",
-    "galactipack.tier.creative": "Creative"
+    "galactipack.tier.creative": "Creative",
+
+    "galactipack.shulker_give.materials": "Materials",
+    "galactipack.shulker_give.o2": "Oxygen Stuff and blocks",
+    "galactipack.shulker_give.blocks_rockets_utils": "Blocks, Rockets and Utils"
 
 }

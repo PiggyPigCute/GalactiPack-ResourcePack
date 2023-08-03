@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/tuff",
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":8977001}, "model": "galactipack:item/rocket_t1"},
+    {"predicate": {"custom_model_data":8977002}, "model": "galactipack:item/rocket_t2"}
+    ]
+}

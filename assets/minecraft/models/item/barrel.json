@@ -13,6 +13,8 @@
         {"predicate": {"custom_model_data":8977007}, "model": "galactipack:item/o2_spreader"},
         {"predicate": {"custom_model_data":8977008}, "model": "galactipack:item/o2_collector"},
         {"predicate": {"custom_model_data":8977009}, "model": "galactipack:item/o2_generator"},
-        {"predicate": {"custom_model_data":8977010}, "model": "galactipack:item/o2_creative_filler"}
+        {"predicate": {"custom_model_data":8977010}, "model": "galactipack:item/o2_creative_filler"},
+        {"predicate": {"custom_model_data":8977101}, "model": "galactipack:item/rocket_t1"},
+        {"predicate": {"custom_model_data":8977102}, "model": "galactipack:item/rocket_t2"}
     ]
 }

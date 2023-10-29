@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:block/furnace",
+
+
+	"overrides": [
+			{"predicate": {"custom_model_data": 4250001},"model": "smithed.crafter:block/table"},
+			{"predicate": {"custom_model_data":8977000}, "model": "galactipack:item/block/pig_assembler"},
+			{"predicate": {"custom_model_data":8977001}, "model": "galactipack:item/block/lpc"},
+			{"predicate": {"custom_model_data":8977002}, "model": "galactipack:item/block/meteor_shield"},
+			{"predicate": {"custom_model_data":8977003}, "model": "galactipack:item/block/space_farm"},
+			{"predicate": {"custom_model_data":8977004}, "model": "galactipack:item/block/o2_compressor"},
+			{"predicate": {"custom_model_data":8977005}, "model": "galactipack:item/block/o2_dilator"},
+			{"predicate": {"custom_model_data":8977006}, "model": "galactipack:item/block/o2_cleaner"},
+			{"predicate": {"custom_model_data":8977007}, "model": "galactipack:item/block/o2_spreader"},
+			{"predicate": {"custom_model_data":8977008}, "model": "galactipack:item/block/o2_collector"},
+			{"predicate": {"custom_model_data":8977009}, "model": "galactipack:item/block/o2_generator"},
+			{"predicate": {"custom_model_data":8977010}, "model": "galactipack:item/block/o2_creative_filler"},
+			{"predicate": {"custom_model_data":8977101}, "model": "galactipack:item/block/rocket_t1"},
+			{"predicate": {"custom_model_data":8977102}, "model": "galactipack:item/block/rocket_t2"}
+	]
+}

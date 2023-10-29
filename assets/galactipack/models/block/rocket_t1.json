@@ -1,0 +1,10 @@
+{
+    "parent": "galactipack:item/block/rocket_t1",
+    "display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -34.5],
+			"scale": [2, 2, 2]
+		}
+    }
+}

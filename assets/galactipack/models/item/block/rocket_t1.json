@@ -527,11 +527,6 @@
 		"head": {
 			"translation": [0, -3.5, 0],
 			"scale": [2, 2, 2]
-		},
-		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -34.5],
-			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

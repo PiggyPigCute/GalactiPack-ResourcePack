@@ -19,6 +19,5 @@
 				"down": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#0"}
 			}
 		}
-	],
-	"display": {}
+	]
 }
